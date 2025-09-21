@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nguyen Hoang Duong
 
 A passionate **Applied Computing in Finance** student from NTU Singapore.  
-Exploring **AI, Python, and finance projects** 🚀  
+I'm currently exploring **AI, Python, and finance projects!**  
 ![Profile Banner](https://github.com/DanielNg0729/DanielNg0729/raw/main/thumb-1920-1355025.jpeg)
 
 
@@ -53,9 +53,3 @@ Let’s build something amazing together! ✨
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielNg0729&theme=radical)
 
 ---
-
-### 💬 Fun Fact
-
-I love **merging AI with finance** and experimenting with **practical projects** that solve real problems. 🚀  
-
-![Coding GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
