@@ -3,7 +3,7 @@
 A passionate **Applied Computing in Finance** student from Singapore.  
 Exploring **AI, Python, and finance projects** 🚀  
 
-![Profile Banner](https://media.giphy.com/media/3o7aD4I1kZgqC1K9UQ/giphy.gif)
+![Profile Banner](https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif) <!-- 8-bit style gaming GIF -->
 
 ---
 
@@ -12,9 +12,6 @@ Exploring **AI, Python, and finance projects** 🚀
 ### [GPT-2 Text Generator](https://github.com/DanielNg0729/gpt2-text-generator)  
 💻 A Python-based AI text generator using GPT-2.  
 Try it out and see how AI can generate coherent text from prompts!  
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
@@ -26,7 +23,19 @@ Try it out and see how AI can generate coherent text from prompts!
 
 - Python & AI/ML  
 - Finance analytics & algorithmic trading  
-- Web development (React, Tailwind CSS)  
+- Web development (React, Tailwind CSS)
+
+---
+
+## ⚙️ Tools & Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -34,16 +43,6 @@ Try it out and see how AI can generate coherent text from prompts!
 
 Open to collaborating on **AI, Python, or finance projects**.  
 Let’s build something amazing together! ✨  
-
----
-
-## ⚙️ Tools & Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
