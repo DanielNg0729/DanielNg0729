@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Daniel Nguyen
+# 👋 Hi, I'm Nguyen Hoang Duong
 
-A passionate **Applied Computing in Finance** student from Singapore.  
+A passionate **Applied Computing in Finance** student from NTU Singapore.  
 Exploring **AI, Python, and finance projects** 🚀  
 
-![Profile Banner](https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif) <!-- 8-bit style gaming GIF -->
 
 ---
 
