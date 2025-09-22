@@ -11,8 +11,11 @@ I'm currently exploring **AI, Python, and finance projects!**
 ## 🔭 Current Project
 
 ### [GPT-2 Text Generator](https://github.com/DanielNg0729/gpt2-text-generator)  
-💻 A Python-based AI text generator using GPT-2.  
-Try it out and see how AI can generate coherent text from prompts!  
+-  A Python-based AI text generator using GPT-2.  
+-  Try it out and see how AI can generate coherent text from prompts!  
+### [Battle Ship Game](https://github.com/DanielNg0729/BattleshipGame)  
+-  A fun and interactive Battleship game built with Python & Tkinter.
+-  Players place ships on a 10×10 board, then take turns attacking until all ships are sunk.
 
 ---
 
