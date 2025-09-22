@@ -4,7 +4,7 @@ A passionate **Applied Computing in Finance** student from NTU Singapore.
 I'm currently exploring **AI, Python, and finance projects!**  
 ![Profile Banner](https://github.com/DanielNg0729/DanielNg0729/raw/main/thumb-1920-1355025.jpeg)
 
-![Welcome GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
 
 ---
 
