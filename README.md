@@ -128,8 +128,6 @@ I build at the intersection of **quantitative finance** and **applied AI** — m
 
 <sub><i>"The intersection of math, markets, and machines is where the real edge lives."</i></sub>
 
-<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=DanielNg0729&label=Profile+views&color=8B5CF6&style=for-the-badge" />
 
 </div>
