@@ -9,7 +9,7 @@
 <p>
   <a href="https://nhduong.site"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/hoang-duong-nguyen-b6957b367/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:duongnt29122007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:danielnguyenh07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/Singapore%20%2F%20Hanoi-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=white">
 </p>
 
