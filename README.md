@@ -1,75 +1,65 @@
-<div align="center">
+<h1 align="center">Nguyen Hoang Duong</h1>
+<p align="center"><em>Quantitative finance × AI/ML × Fintech infrastructure</em></p>
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="280"/>
-
-# Nguyen Hoang Duong
-
-**Applied Computing in Finance · NTU Singapore**  
-
-
-<a href="https://portfolio-testing1-beta.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25"/>
-</a>
-<a href="mailto:duongnt29122007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
-</a>
-<a href="https://www.linkedin.com/in/hoang-duong-nguyen-b6957b367/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://danielnguyenh07.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hoang-duong-nguyen-b6957b367/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:duongnt29122007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0A0A0A?style=flat&logo=gmail&logoColor=white"></a>
+  <img alt="Location" src="https://img.shields.io/badge/Singapore%20%2F%20Hanoi-0A0A0A?style=flat">
+</p>
 
 ---
 
-### About Me
+### About
 
-I'm a Year 1 undergrad at NTU Singapore studying Applied Computing in Finance. I build systems at the intersection of **quantitative finance**, **AI/ML**, and **financial technology**.
+Year 1 undergraduate at **Nanyang Technological University**, reading **Applied Computing in Finance**. Incoming fintech intern building a **Regulatory Knowledge Base** powered by large language models and multimodal AI, working over MAS (Monetary Authority of Singapore) regulatory corpora.
 
-Previously a Mathematics Researcher at THPT Chuyên KHTN — won Special Prize twice and co-authored a combinatorics textbook in LaTeX.
+Before NTU: Mathematics Researcher at **THPT Chuyên KHTN**, twice awarded the Special Prize, and co-author of a combinatorics textbook typeset in LaTeX.
 
----
-
-### Tech Stack
-
-<div align="center">
-
-| Languages | Frameworks | Data & ML | Tools |
-|:---------:|:----------:|:---------:|:-----:|
-| <img src="https://skillicons.dev/icons?i=python,js,ts,java,r" height="30"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi" height="30"/> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="30"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,linux" height="30"/> |
-| Python · JS/TS · Java · R · LaTeX | React · Next.js · FastAPI · LangChain | NumPy · Pandas · scikit-learn · TF | Git · Docker · Vercel · Linux |
-
-</div>
+I build at the intersection of **quantitative finance** and **applied AI** — market microstructure, regulatory intelligence, and ML systems that reason over real financial data. Long-term direction is quantitative research and trading infrastructure.
 
 ---
 
-### Projects
+### Selected Work
 
-<div align="center">
+#### Quantitative Finance & Trading
+- **HDB Resale Price Predictor** — end-to-end pipeline over Singapore HDB transaction data. OLS → Lasso → Random Forest (R² ≈ 0.94), plus SARIMAX for price-level forecasting.
+- **BoFA — Bond Portfolio Engine** — sequential event processing and a domain query engine over dirty price, accrued interest, and PV. Python.
+- **[RSI Strategy Backtester](https://github.com/DanielNg0729/RSI-Backtesting)** — vectorized backtester with drawdown analysis, equity curve, and signal visualization.
+- **Crypto Trading Bot** — LSTM price models and ML-driven signal generation on OHLCV data.
 
-| | Project | What it does | Built with |
-|:-:|:--------|:------------|:-----------|
-| 📈 | **[RSI Backtesting](https://github.com/DanielNg0729/RSI-Backtesting)** | Algorithmic trading backtester with drawdown analysis and signal visualization | Python |
-| 🤖 | **[GPT-2 Text Generator](https://github.com/DanielNg0729/gpt2-text-generator)** | Text generation pipeline using GPT-2 with custom prompting | Python |
-| 📊 | **[Linear Regression Test](https://github.com/DanielNg0729/Linear_Regression_Test)** | Regression analysis and model evaluation on real datasets | Python |
-| 🚢 | **[Battleship Game](https://github.com/DanielNg0729/BattleshipGame)** | Classic Battleship game with AI opponent logic | Python |
-| 👥 | **[Team Allocation Simulator](https://github.com/DanielNg0729/Team-Allocation-Simulator)** | Simulates team allocation strategies with data-driven insights | Jupyter Notebook |
-| 🌐 | **[Portfolio Website](https://portfolio-testing1-beta.vercel.app/)** | Cyberpunk-themed personal site with Framer Motion and an AI chatbot | React · TypeScript |
+#### AI / LLM Systems
+- **Regulatory Knowledge Base (upcoming, internship)** — retrieval and reasoning over MAS regulatory documents; multimodal ingestion, prompt orchestration, local-model evaluation.
+- **[GPT-2 Text Generator](https://github.com/DanielNg0729/gpt2-text-generator)** — transformer generation experiments in PyTorch.
+- **Local LLM toolkit** — Ollama + Qwen3 + LangChain for private inference, prompt-engineering benchmarks (zero-shot / few-shot / chain-of-thought).
 
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DanielNg0729&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNg0729&layout=compact&hide_border=true&theme=graywhite&langs_count=6" height="165"/>
-
-</div>
+#### Product & Full-Stack
+- **CareerCompass** — hackathon project. Career platform for Singapore fresh graduates with a Career DNA matching system; Next.js + FastAPI, aggregated job data from multiple sources.
+- **[Portfolio](https://danielnguyenh07.vercel.app)** — React + TypeScript, Framer Motion, embedded AI chatbot. Dark, cyberpunk aesthetic.
 
 ---
 
-<div align="center">
-  <sub>Singapore 🇸🇬 · Hanoi 🇻🇳</sub>
-</div>
+### Tech
+
+```
+Languages   Python · TypeScript · Java · C++ · R · LaTeX
+ML / Data   PyTorch · TensorFlow · scikit-learn · Pandas · NumPy · SARIMAX
+LLM Stack   LangChain · Ollama · Qwen3 · Prompt engineering · RAG
+Web         React · Next.js · FastAPI · Tailwind · Framer Motion
+Infra       Git · Docker · Vercel · Linux
+```
+
+---
+
+### Currently
+
+- Building LLM + multimodal infrastructure for regulatory document intelligence.
+- Deepening into market microstructure, order flow, and execution research.
+- Coursework: advanced data structures (hashing, tries), algorithms, financial mathematics.
+
+---
+
+<p align="center">
+  <a href="https://github.com/DanielNg0729"><img src="https://github-readme-stats.vercel.app/api?username=DanielNg0729&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub stats" height="140"></a>
+  <a href="https://github.com/DanielNg0729"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielNg0729&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Top languages" height="140"></a>
+</p>
