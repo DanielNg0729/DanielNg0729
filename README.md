@@ -172,21 +172,6 @@ class Daniel:
 
 <!-- ═══════════════════════════════════════════════════ -->
 
-## 🏆 Achievements
-
-<div align="center">
-
-| 🥇 Award | 📅 Year |
-|:---|:---:|
-| 🔬 Special Prize — Mathematics Research (×2) | 2023 & 2024 |
-| 🥈 Silver Medal — National Mathematics Olympiad | 2023 |
-| 🏅 Top 3 — HSGS Mathematics Olympiad | 2023 |
-| 📜 Cambridge A-Level — **3A*** | 2025 |
-| 🎓 BSc Applied Computing in Finance — NTU Singapore | 2025–Present |
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
