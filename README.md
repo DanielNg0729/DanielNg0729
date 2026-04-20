@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://user-images.githubusercontent.com/74038190/212750996-95aaef1d-d2b6-4eed-99fd-fc5c60bd2da7.gif](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)" width="500" alt="8-bit coder at night"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="8-bit coder at night"/>
 
 # Nguyen Hoang Duong
 
