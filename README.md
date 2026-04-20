@@ -4,7 +4,7 @@
 
 # Nguyen Hoang Duong
 
-### `Quantitative finance × AI/ML × Fintech infrastructure`
+### `Quantitative finance × AI/ML`
 
 <p>
   <a href="https://danielnguyenh07.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -23,7 +23,6 @@
 
 Year 1 undergraduate at **Nanyang Technological University**, reading **Applied Computing in Finance**. Incoming fintech intern building a **Regulatory Knowledge Base** powered by LLMs and multimodal AI, working over MAS (Monetary Authority of Singapore) regulatory corpora.
 
-Before NTU: Mathematics Researcher at **THPT Chuyên KHTN**, twice awarded the Special Prize, and co-author of a combinatorics textbook typeset in LaTeX.
 
 I build at the intersection of **quantitative finance** and **applied AI** — market microstructure, regulatory intelligence, and ML systems that reason over real financial data. Long-term direction: quantitative research and trading infrastructure.
 
@@ -93,7 +92,7 @@ I build at the intersection of **quantitative finance** and **applied AI** — m
 - **Local LLM Toolkit** — Ollama + Qwen3 + LangChain for private inference; prompt-engineering benchmarks across zero-shot, few-shot, and chain-of-thought.
 
 #### Product & Full-Stack
-- **CareerCompass** *(hackathon)* — career platform for Singapore fresh graduates with a **Career DNA** matching system; Next.js + FastAPI, aggregated job data from multiple sources.
+- **CareerDNA** *(hackathon)* — career platform for Singapore fresh graduates with a **Career DNA** matching system; Next.js + FastAPI, aggregated job data from multiple sources.
 - **[Portfolio](https://danielnguyenh07.vercel.app)** — React + JavaScript, Framer Motion, embedded AI chatbot. Dark, cyberpunk aesthetic.
 
 ---
@@ -123,7 +122,6 @@ I build at the intersection of **quantitative finance** and **applied AI** — m
 
 - Building LLM + multimodal infrastructure for regulatory document intelligence.
 - Deepening into **market microstructure**, order flow, and execution research.
-- Coursework: advanced data structures (hashing, tries), algorithms, financial mathematics.
 
 ---
 
