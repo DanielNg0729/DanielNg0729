@@ -87,7 +87,6 @@ I build at the intersection of **quantitative finance** and **applied AI** — m
 - **Crypto Trading Bot** — LSTM price models and ML-driven signal generation on OHLCV data.
 
 #### AI / LLM Systems
-- **Regulatory Knowledge Base** *(upcoming, internship)* — retrieval and reasoning over MAS regulatory documents; multimodal ingestion, prompt orchestration, local-model evaluation.
 - **[GPT-2 Text Generator](https://github.com/DanielNg0729/gpt2-text-generator)** — transformer generation experiments in PyTorch.
 - **Local LLM Toolkit** — Ollama + Qwen3 + LangChain for private inference; prompt-engineering benchmarks across zero-shot, few-shot, and chain-of-thought.
 
