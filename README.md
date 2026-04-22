@@ -13,7 +13,7 @@
   <img alt="Location" src="https://img.shields.io/badge/Singapore%20%2F%20Hanoi-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=white">
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=620&lines=Nanyang Technological University ;Applied+Computing+in+Finance;Building+LLM+systems+;Aspring+Quant+Developer+%7C+Market+microstructure+%7C+HFT" alt="typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=620&lines=Nanyang+Technological+University;Applied+Computing+in+Finance;Building+LLM+systems+;Aspring+Quant+Developer+%7C+Market+microstructure+%7C+HFT" alt="typing"/>
 
 </div>
 
