@@ -4,7 +4,7 @@
 
 # Nguyen Hoang Duong
 
-### `Quantitative finance × AI/ML`
+### `AI/ML Engineer × Software Engineer`
 
 <p>
   <a href="https://nhduong.site"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"></a>
